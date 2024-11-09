@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zineb Mouman</h1>
 <h3 align="center">Student in Full Stack Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on [Online Farmers' Market: Freshshop](https://github.com/zinebmouman/e_ferme.git)
 
 - 🌱 I’m currently learning **JAVA JEE**
