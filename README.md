@@ -13,7 +13,7 @@
   This project demonstrates a **full DevOps lifecycle** — from source **code management to container orchestration** and **real-time monitoring**.
   *Stack:* Spring Boot · React · PostgreSQL · Jenkins · Docker · Kubernetes (AKS) · SonarQube · Prometheus · Grafana · Azure ACR
 
-- 🛒 **[HereDaba — mobile shoping app](https://github.com/zinebmouman/here_daba_final.git)**  
+- 🛒 **[HereDaba — mobile shopping app](https://github.com/zinebmouman/here_daba_final.git)**  
   Full-stack marketplace connecting local farmers and clients.  
   *Stack:* Spring Boot (microservices) · React Native (Expo) · PostgreSQL · Redis · RabbitMQ · Docker · Nginx · GitHub Actions (CI/CD)
 
